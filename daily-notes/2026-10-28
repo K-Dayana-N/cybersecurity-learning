@@ -1,0 +1,26 @@
+# Learning Log — October 28, 2026
+
+## Topics studied
+- Web fundamental(DNS/HTTPs)
+- Nmap port scanning
+- ADB and Android debugging
+- Network scanning in a virtual lab
+
+
+## Practical work
+- I completed room "DNS in detail", i used <nslookup> to find type of DNS record, such as A/AAAA/CNAME/TXT/MX.
+- Also comleted room "HTTP in Detail", http status codes was helpful.  
+- Scanned a lab machine using Nmap
+- Practiced identifying open ports and services
+
+## Problems
+- Encountered a DNS configuration warning
+- Need to understand the difference between open and filtered ports
+- Сouldn't connect an open vpn server to a my VM
+- I didn't take important notes on the theory.
+
+## Next steps
+- Learn more about Nmap scan options
+- Investigate the DNS warning
+- Notes about HTTP status code
+- Finish web page
