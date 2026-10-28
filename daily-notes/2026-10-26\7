@@ -1,0 +1,29 @@
+# Learning Log — October 26–27, 2026
+
+## Topics studied
+- Cryptography fundamentals
+- Passwords, MFA and access management
+- Web security and OWASP Top 10
+- Malware, phishing and social engineering
+- Linux fundamentals and system security
+
+## Practical work
+- Calculated SHA-256 hash of a file, changed one character and compared the hashes.
+- Created a GPG key pair, encrypted and decrypted a file.
+- Checked a website's TLS certificate using OpenSSL and SSL Labs.
+- Completed beginner challenges on CryptoHack.
+- Checked email addresses on Have I Been Pwned.
+- Practiced password management with Bitwarden and explored passkeys.
+- Set up Ubuntu in VirtualBox and practiced SSH key authentication and UFW configuration.
+- Worked with Linux commands, permissions and authentication logs.
+- Practiced Bash scripting for counting failed login attempts by IP.
+- Completed Linux and Windows fundamentals learning rooms on TryHackMe.
+- Practiced Linux command-line skills on OverTheWire: Bandit.
+- Studied common web vulnerabilities and ways to prevent them.
+- Completed a phishing-related room and practiced identifying phishing indicators.
+
+## Problems
+- Some cryptography concepts are still difficult to understand in practice.
+- Need more practice with Linux logs and Bash scripting.
+- Need to improve my understanding of common web vulnerabilities.
+- I didn't take enough notes on some theoretical topics.
