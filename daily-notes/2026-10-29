@@ -1,0 +1,18 @@
+# Learning Log — October 29, 2026
+
+## Topics studied
+- Bash scripting
+- Bash control structures (if/else, case)
+- Choose learning course: SQL learning path and Cybersecurity
+
+## Practical work
+- Practiced using Bash arguments such as $0, $1, $2, $#, $@ and $*.
+- Created and ran a Bash script using nano and chmod.
+- Learned how to pass arguments to a script.
+- Studied if/else and case statements in Bash.
+- Completed a TryHackMe HTML in Detail room.
+- Chose a SQL course and decided how to continue learning mcybersecurity.
+
+## Problems
+- Still need more practice with Bash scripting logic.
+- Some control structures are confusing.
